@@ -2,7 +2,7 @@
 
 A simple library for generating human IDs like `look-dead-game-story` or `get-nice-office-side`. 
 
-Install with `pip install human-id`
+Install with `pip install git+ssh@github.com:santoshray02/human_id.git`
 
 Usage:
 
